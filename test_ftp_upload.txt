@@ -1,5 +1,1 @@
-xaxa
-test
-test2da
-test
-test
+Ahoj testuju auto deploy z githubu pres visual studio team services!
